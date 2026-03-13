@@ -97,7 +97,7 @@ This application strictly follows the syntax rules of the original Variant proje
 
 ## 📷 Screenshots
 
-*(Replace these placeholders with actual screenshots from your Android Emulator!)*
+![Morse Code Sample](/app/src/main/morse-app.jpeg")
 
 ---
 
