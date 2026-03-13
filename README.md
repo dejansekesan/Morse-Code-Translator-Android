@@ -97,7 +97,7 @@ This application strictly follows the syntax rules of the original Variant proje
 
 ## 📷 Screenshots
 
-![Morse Code Sample](/app/src/main/morse-app.jpeg")
+![Morse Code Sample](/app/src/main/morse-app.jpeg "Morse Code Sample")
 
 ---
 
